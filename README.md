@@ -17,7 +17,7 @@ I had the opportunity to learn Next.js in a very engaging way recently. This tut
 - Static Site Generation (SSG)
 - Incremental Static Generation (ISR)
  
-## Credits
+ ## Tutorial
 
 [Tutorial](https://www.youtube.com/watch?v=wm5gMKuwSYk&t=11269s)
 
