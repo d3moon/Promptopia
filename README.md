@@ -1,5 +1,5 @@
 # Promptopia
-<img src="https://media.tenor.com/uCtxPlIEJeUAAAAC/black-mirror.gif" align="center"/>
+<p  align="center"><img src="https://media.tenor.com/uCtxPlIEJeUAAAAC/black-mirror.gif"/></p>
 
 ## Introduction
 I had the opportunity to learn Next.js in a very engaging way recently. This tutorial allowed me to grasp the most important concepts of Next.js and understand how they integrate with the React ecosystem. Moreover, it provided hands-on experience by guiding me through the creation of a modern full-stack Next.js 13 application.
@@ -17,11 +17,9 @@ I had the opportunity to learn Next.js in a very engaging way recently. This tut
 - Static Site Generation (SSG)
 - Incremental Static Generation (ISR)
  
+## Credits
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
-
+[Tutorial](https://www.youtube.com/watch?v=wm5gMKuwSYk&t=11269s)
 
 ## Authors
 
