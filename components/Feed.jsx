@@ -7,7 +7,7 @@ import PromptCard from "@components/PromptCard"
 const PromptCardList = ({data, handleTagClick}) => {
   console.log(data)
   return (
-    <div className="mt-16 prompt-layout">
+    <div className="mt-16 prompt_layout">
       {
         data.map((post)=> (
           <PromptCard
